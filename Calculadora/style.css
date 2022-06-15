@@ -1,0 +1,35 @@
+.btn {
+    text-align: center;
+    margin: 3px;
+    width: 100%;
+    padding: 25px;
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+#display {
+    text-align: right;
+    font-size: 30px;
+    margin-bottom: 10px;
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: black;
+}
+
+.calculadora {
+    background-color: red;
+    border-radius: 10px;
+    width: 25%;
+}
